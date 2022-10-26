@@ -1,9 +1,3 @@
-# Coffee Ratios
-
-```bash
-dotnet run > ratios.md
-```
-
 Coffee | Water
 -------|------
 6.4g | 100g

@@ -1,5 +1,5 @@
-﻿double COFFEE_RATIO = 6.4;
-double WATER_RATIO = 100;
+﻿double COFFEE_RATIO = 8;
+double WATER_RATIO = 150;
 
 Console.WriteLine("Coffee | Water");
 Console.WriteLine("-------|------");
